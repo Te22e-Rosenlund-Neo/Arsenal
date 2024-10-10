@@ -1,0 +1,14 @@
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\bin\Debug\net7.0\Arenal.exe
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\bin\Debug\net7.0\Arenal.deps.json
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\bin\Debug\net7.0\Arenal.runtimeconfig.json
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\bin\Debug\net7.0\Arenal.dll
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\bin\Debug\net7.0\Arenal.pdb
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.AssemblyInfoInputs.cache
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.AssemblyInfo.cs
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.csproj.CoreCompileInputs.cache
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.dll
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\refint\Arenal.dll
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.pdb
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\Arenal.genruntimeconfig.cache
+C:\Users\neo.rosenlund\Documents\Prog2Mapp\Arsenal\Arenal\obj\Debug\net7.0\ref\Arenal.dll
